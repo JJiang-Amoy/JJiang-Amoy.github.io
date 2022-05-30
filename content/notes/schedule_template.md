@@ -5,7 +5,7 @@ menu:
   notes:
     name: Introduction
     identifier: notes-go-basics-intro
-    parent: notes-go-basics
+    parent: notes
     weight: 10
 ---
 <!-- Meeting -->
