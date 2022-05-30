@@ -1,11 +1,11 @@
 ---
-title: Introduction
+title: Schedule
 weight: 10
 menu:
   notes:
-    name: Introduction
-    identifier: notes-go-basics-intro
-    parent: notes
+    name: Schedule
+    identifier: notes-schedule
+    parent: Notes
     weight: 10
 ---
 <!-- Meeting -->
