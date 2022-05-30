@@ -32,6 +32,10 @@ Run the program as below:
 ```bash
 $ go run hello.go
 ```
+{{< img src="/posts/shortcodes/boat.jpg" title="A boat at the sea" >}}
+
+{{< vs 3 >}}
+
 {{< /note >}}
 
 <!-- Declaring Variables -->
