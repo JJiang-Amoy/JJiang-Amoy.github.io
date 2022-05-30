@@ -1,11 +1,11 @@
 ---
-title: Schedule
+title: Template
 weight: 10
 menu:
   notes:
-    name: Schedule
-    identifier: notes-schedule
-    parent: notes
+    name: Template
+    identifier: notes-schedule-template
+    parent: notes-schedule
     weight: 10
 ---
 <!-- Meeting -->
