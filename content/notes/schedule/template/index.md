@@ -1,6 +1,6 @@
 ---
-title: Template
-weight: 10
+title: Schedule Template
+weight: 100
 menu:
   notes:
     name: Template

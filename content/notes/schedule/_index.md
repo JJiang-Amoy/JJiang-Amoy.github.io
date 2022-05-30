@@ -6,4 +6,4 @@ menu:
     identifier: notes-schedule
     weight: 20
 ---
-# Schedule Notes
+# Bash Notes
