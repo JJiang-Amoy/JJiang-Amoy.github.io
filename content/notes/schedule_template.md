@@ -4,8 +4,8 @@ weight: 10
 menu:
   notes:
     name: Schedule
-    identifier: notes-schedule
-    parent: Notes
+    identifier: schedule
+    #parent: Notes
     weight: 10
 ---
 <!-- Meeting -->
