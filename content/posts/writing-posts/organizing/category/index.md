@@ -3,7 +3,7 @@ title: "Creating Category"
 date: 2020-06-08T06:15:55+06:00
 author:
   name: Md.Habibur Rahman
-  image: /images/author/habib.jpg
+  image: /images/author/john.png
 menu:
   sidebar:
     name: Creating Category
@@ -99,7 +99,7 @@ By default, the post should use author information from `config.yaml`. If you wa
 ```yaml
 author:
   name: Md.Habibur Rahman
-  image: /images/authors/habib.jpg
+  image: /images/authors/john.png
 ```
 
 Your final front-matter should look-like:
@@ -110,7 +110,7 @@ date: 2020-06-08T06:15:55+06:00
 # hero: images/background/flower.jpg
 author:
   name: Md.Habibur Rahman
-  image: /images/authors/habib.jpg
+  image: /images/authors/john.png
 menu:
   sidebar:
     name: Creating Category
