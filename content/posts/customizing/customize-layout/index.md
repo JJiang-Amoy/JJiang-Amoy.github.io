@@ -4,7 +4,7 @@ date: 2021-08-07T06:20:50+06:00
 hero: /images/posts/configuration/about-section-hero.svg
 author:
   name: James Ray
-  image: images/author/james.jpg
+  image: images/author/john.png
 menu:
   sidebar:
     name: Layout Customization
