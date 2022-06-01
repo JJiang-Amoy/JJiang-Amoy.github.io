@@ -146,11 +146,7 @@ params:
   # flagOverwrites:
   # - languageCode: en
   #   countryCode: us
-  customMenus:
-  - name: About
-    url: /about
-  - name: Contact
-    url: /contact
+
   # Provide footer configuration.
   footer:
     enable: true
@@ -179,3 +175,8 @@ params:
     disclaimer:
       enable: true
 
+  customMenus:
+  - name: About
+    url: /about
+  - name: Contact
+    url: /contact
